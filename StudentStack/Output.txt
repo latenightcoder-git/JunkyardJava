@@ -1,0 +1,286 @@
+
+C:\JunkyardJava\StudentStack>set CLASSPATH=C:\JunkYardJava\StudentStack\lombok.jar;.
+
+C:\JunkyardJava\StudentStack>javac StudentRecord.java StudentStack.java StudentStackApp.java
+
+C:\JunkyardJava\StudentStack>java StudentStackApp.java
+Initialized stack for 10 students.
+
+===== Student Stack Menu =====
+1. Push student
+2. Pop student
+3. Peek top student
+4. Display all students
+5. Stack size
+6. Search by email
+7. Search by name
+8. Exit
+Enter your choice: 4
+Stack is empty.
+
+===== Student Stack Menu =====
+1. Push student
+2. Pop student
+3. Peek top student
+4. Display all students
+5. Stack size
+6. Search by email
+7. Search by name
+8. Exit
+Enter your choice: 1
+Enter roll number: 1
+Enter name: Madhuchhanda
+Enter email: madhu@gmail.com
+Student pushed: Roll: 1, Name: Madhuchhanda, Email: madhu@gmail.com
+
+===== Student Stack Menu =====
+1. Push student
+2. Pop student
+3. Peek top student
+4. Display all students
+5. Stack size
+6. Search by email
+7. Search by name
+8. Exit
+Enter your choice: 1
+Enter roll number: 2
+Enter name: Sreemoye
+Enter email: sreemoye@gmail.com
+Student pushed: Roll: 2, Name: Sreemoye, Email: sreemoye@gmail.com
+
+===== Student Stack Menu =====
+1. Push student
+2. Pop student
+3. Peek top student
+4. Display all students
+5. Stack size
+6. Search by email
+7. Search by name
+8. Exit
+Enter your choice: 1
+Enter roll number: 3
+Enter name: Annwesha
+Enter email: annwesha@gmail.com
+Student pushed: Roll: 3, Name: Annwesha, Email: annwesha@gmail.com
+
+===== Student Stack Menu =====
+1. Push student
+2. Pop student
+3. Peek top student
+4. Display all students
+5. Stack size
+6. Search by email
+7. Search by name
+8. Exit
+Enter your choice: 1
+Enter roll number: 4
+Enter name: Koyel
+Enter email: koyel@gmail.com
+Student pushed: Roll: 4, Name: Koyel, Email: koyel@gmail.com
+
+===== Student Stack Menu =====
+1. Push student
+2. Pop student
+3. Peek top student
+4. Display all students
+5. Stack size
+6. Search by email
+7. Search by name
+8. Exit
+Enter your choice: 1
+Enter roll number: 5
+Enter name: Sayantani
+Enter email: sayantani@gmail.com
+Student pushed: Roll: 5, Name: Sayantani, Email: sayantani@gmail.com
+
+===== Student Stack Menu =====
+1. Push student
+2. Pop student
+3. Peek top student
+4. Display all students
+5. Stack size
+6. Search by email
+7. Search by name
+8. Exit
+Enter your choice: 1
+Enter roll number: 6
+Enter name: Tamojeet
+Enter email: tamojeet@gmail.com
+Student pushed: Roll: 6, Name: Tamojeet, Email: tamojeet@gmail.com
+
+===== Student Stack Menu =====
+1. Push student
+2. Pop student
+3. Peek top student
+4. Display all students
+5. Stack size
+6. Search by email
+7. Search by name
+8. Exit
+Enter your choice: 1
+Enter roll number: 7
+Enter name: Tamoghno
+Enter email: tamoghno@gmail.com
+Student pushed: Roll: 7, Name: Tamoghno, Email: tamoghno@gmail.com
+
+===== Student Stack Menu =====
+1. Push student
+2. Pop student
+3. Peek top student
+4. Display all students
+5. Stack size
+6. Search by email
+7. Search by name
+8. Exit
+Enter your choice: 1
+Enter roll number: 8
+Enter name: Ankan
+Enter email: ankan@gmail.com
+Student pushed: Roll: 8, Name: Ankan, Email: ankan@gmail.com
+
+===== Student Stack Menu =====
+1. Push student
+2. Pop student
+3. Peek top student
+4. Display all students
+5. Stack size
+6. Search by email
+7. Search by name
+8. Exit
+Enter your choice: 1
+Enter roll number: 9
+Enter name: Souparno
+Enter email: souparno@gmail.com
+Student pushed: Roll: 9, Name: Souparno, Email: souparno@gmail.com
+
+===== Student Stack Menu =====
+1. Push student
+2. Pop student
+3. Peek top student
+4. Display all students
+5. Stack size
+6. Search by email
+7. Search by name
+8. Exit
+Enter your choice: 1
+Enter roll number: 10
+Enter name: Priyankar
+Enter email: priyankar@gmail.com
+Student pushed: Roll: 10, Name: Priyankar, Email: priyankar@gmail.com
+
+===== Student Stack Menu =====
+1. Push student
+2. Pop student
+3. Peek top student
+4. Display all students
+5. Stack size
+6. Search by email
+7. Search by name
+8. Exit
+Enter your choice: 3
+Top student: Roll: 10, Name: Priyankar, Email: priyankar@gmail.com
+
+===== Student Stack Menu =====
+1. Push student
+2. Pop student
+3. Peek top student
+4. Display all students
+5. Stack size
+6. Search by email
+7. Search by name
+8. Exit
+Enter your choice: 4
+----- Student Stack -----
+Roll: 10, Name: Priyankar, Email: priyankar@gmail.com
+Roll: 9, Name: Souparno, Email: souparno@gmail.com
+Roll: 8, Name: Ankan, Email: ankan@gmail.com
+Roll: 7, Name: Tamoghno, Email: tamoghno@gmail.com
+Roll: 6, Name: Tamojeet, Email: tamojeet@gmail.com
+Roll: 5, Name: Sayantani, Email: sayantani@gmail.com
+Roll: 4, Name: Koyel, Email: koyel@gmail.com
+Roll: 3, Name: Annwesha, Email: annwesha@gmail.com
+Roll: 2, Name: Sreemoye, Email: sreemoye@gmail.com
+Roll: 1, Name: Madhuchhanda, Email: madhu@gmail.com
+
+===== Student Stack Menu =====
+1. Push student
+2. Pop student
+3. Peek top student
+4. Display all students
+5. Stack size
+6. Search by email
+7. Search by name
+8. Exit
+Enter your choice: 5
+Current stack size: 10
+
+===== Student Stack Menu =====
+1. Push student
+2. Pop student
+3. Peek top student
+4. Display all students
+5. Stack size
+6. Search by email
+7. Search by name
+8. Exit
+Enter your choice: 6
+Enter email to search: koyel@gmail.com
+Found by email: Roll: 4, Name: Koyel, Email: koyel@gmail.com
+
+===== Student Stack Menu =====
+1. Push student
+2. Pop student
+3. Peek top student
+4. Display all students
+5. Stack size
+6. Search by email
+7. Search by name
+8. Exit
+Enter your choice: 7
+Enter name to search: Annwesha
+Found by name: Roll: 3, Name: Annwesha, Email: annwesha@gmail.com
+
+===== Student Stack Menu =====
+1. Push student
+2. Pop student
+3. Peek top student
+4. Display all students
+5. Stack size
+6. Search by email
+7. Search by name
+8. Exit
+Enter your choice: 2
+Popped student: Roll: 10, Name: Priyankar, Email: priyankar@gmail.com
+
+===== Student Stack Menu =====
+1. Push student
+2. Pop student
+3. Peek top student
+4. Display all students
+5. Stack size
+6. Search by email
+7. Search by name
+8. Exit
+Enter your choice: 4
+----- Student Stack -----
+Roll: 9, Name: Souparno, Email: souparno@gmail.com
+Roll: 8, Name: Ankan, Email: ankan@gmail.com
+Roll: 7, Name: Tamoghno, Email: tamoghno@gmail.com
+Roll: 6, Name: Tamojeet, Email: tamojeet@gmail.com
+Roll: 5, Name: Sayantani, Email: sayantani@gmail.com
+Roll: 4, Name: Koyel, Email: koyel@gmail.com
+Roll: 3, Name: Annwesha, Email: annwesha@gmail.com
+Roll: 2, Name: Sreemoye, Email: sreemoye@gmail.com
+Roll: 1, Name: Madhuchhanda, Email: madhu@gmail.com
+
+===== Student Stack Menu =====
+1. Push student
+2. Pop student
+3. Peek top student
+4. Display all students
+5. Stack size
+6. Search by email
+7. Search by name
+8. Exit
+Enter your choice: 8
+Exiting program.
